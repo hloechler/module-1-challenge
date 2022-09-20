@@ -1,6 +1,6 @@
 # module-1-challenge
 
-##This project was used to help learn how to add proper atl elements to images. This in turn makes it easier for people who use screen readers to access websites and applications. It was also used to practice making repos and deploying them. 
+##This project was used to help learn how to add proper atl elements to images. This in turn makes it easier for people who use screen readers to access websites and applications. It was also used to practice making repos and deploying them in github. 
 
 ## Installation
 N/A
